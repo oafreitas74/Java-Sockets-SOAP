@@ -1,0 +1,22 @@
+Para testar o meu trabalho executar as aplicações:
+
+CentralArmaDados
+CentralComando
+Celula
+Escuta
+
+A porta na célula para as ligações das escutas é dinâmico, ao executar a célula é indicado qual é a porta para a escuta se ligar a essa célula, depois ao executar a escuta é pedido que tipo de escuta é: Áudio, Imagem ou vídeo, em seguida vai ter 3 opções para ligar a 3 células possíveis com as portas 5000, 5001, 5002.
+
+Os nomes das escutas e das células é definido pela ligação que faz ao servidor.
+
+
+Se houver algum problema em executar o servidor cliente, vai também a aplicação central, então terá que executar
+
+Central
+Celula
+Escuta
+
+
+Obrigado
+
+Orlando Freitas 
